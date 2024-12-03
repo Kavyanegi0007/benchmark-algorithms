@@ -1,0 +1,17 @@
+--- Gzip ---
+Compression Time: 0.032930 seconds
+Decompression Time: 0.010271 seconds
+Decompression verified successfully.
+Compression Ratio: 0.002926
+
+--- Snappy ---
+Compression Time: 0.003170 seconds
+Decompression Time: 0.006243 seconds
+Decompression verified successfully.
+Compression Ratio: 0.047461
+
+--- Zstd ---
+Compression Time: 0.009083 seconds
+Decompression Time: 0.003987 seconds
+Decompression verified successfully.
+Compression Ratio: 0.000107
